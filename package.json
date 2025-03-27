@@ -1,0 +1,25 @@
+{
+  "name": "Sudoku game",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "private": true,
+  "packages": {},
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.0"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "framer-motion": "^12.6.2",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
